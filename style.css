@@ -1,0 +1,83 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.first-section{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: cover;
+}
+.see-all{
+    color: rgb(214, 93, 13);
+}
+.product{
+    margin-bottom: 15px;
+}
+.card-text{
+    color: grey;
+}
+.price{
+    margin-top:30px;
+    font-weight: bold;
+}
+.card{
+    box-shadow: 5px 5px 20px lightgray;
+    border: none;
+    border-top: none;
+    border-radius: 20px;
+}
+.card-img-top{
+    padding: 35px;
+}
+.card-title{
+    margin-bottm: 0px;
+    font-weight: bold;
+}
+.card-text{
+    padding: 0px 50px;
+    text-align: center;
+}
+.lap{
+    margin-top: 20px;
+}
+.all{
+    margin-top: 70px;
+}
+.p1{
+    box-shadow: 10px 10px 15px rgb(211, 222, 243);
+    border: none;
+    padding: 50px;
+    border-top: none;
+}
+.pic1{
+    border-top-right-radius: 15px;
+    border-bottom-left-radius:25px ;
+}
+.pic2{
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 25px;
+}
+.first-container{
+    margin-top: 15px;
+}
+.last-container{
+    margin-top: 120px;
+}
+.last-catagories{
+    margin-bottom: 50px;
+}
+.first-section p{
+    padding-right: 40px;
+}
+
