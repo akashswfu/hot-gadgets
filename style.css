@@ -80,4 +80,10 @@
 .first-section p{
     padding-right: 40px;
 }
+.example{
+    height: 8px;
+    width: 120px;
+    background-image: linear-gradient(to left,rgb(223, 186, 24) 0%,rgb(230, 162, 18)100%);
+    border-radius: 13px;
+}
 
